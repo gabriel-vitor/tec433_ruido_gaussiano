@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pythonlibs/
+src/resultados/
+*.egg-info/
+.pytest_cache/
+.coverage
