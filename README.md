@@ -31,15 +31,19 @@ após criado, ative ele com o seguinte comando:
 .\venv\Scripts\activate
 ```
 
-2. Instale as dependências:
+2. Dentro da pasta do projeto, abra o terminal e instale as dependências:
 ```bash
 pip install numpy==1.24.3
 pip install opencv-python==4.8.1.78
 ```
 
-3. Execute o programa:
+3. No terminal, Execute o programa:
 ```bash
 python python/source.py
+
+ou
+
+python source.py
 ```
 
 Os resultados serão salvos em `python/resultados/`.
