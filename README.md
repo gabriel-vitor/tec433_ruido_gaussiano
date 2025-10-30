@@ -22,9 +22,12 @@ O programa gera dois conjuntos de resultados (para σ=32 e σ=64):
 
 ## Instalação e Uso
 
-1. Crie e ative um ambiente virtual:
+1. Dentro da pasta do projeto, abra o terminal, Crie e ative um ambiente virtual com o seguinte comando:
 ```bash
 python -m venv venv
+
+após criado, ative ele com o seguinte comando:
+
 .\venv\Scripts\activate
 ```
 
