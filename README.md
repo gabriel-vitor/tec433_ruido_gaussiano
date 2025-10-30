@@ -51,11 +51,12 @@ Os resultados serão salvos em `src/resultados/`.
 ## Estrutura do Projeto
 ```
 tec433_ruido_gaussiano/
-├── python/
+├── src/
 │   ├── source.py
 │   └── resultados/
-├── img_example/
-│   └── pilares_da_criacao_original.png
+│   └── img_example/
+│      └── pilares_da_criacao_original.png
+│   └── requirements.txt
 └── README.md
 ```
 
