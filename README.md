@@ -46,7 +46,7 @@ ou
 python source.py
 ```
 
-Os resultados serão salvos em `python/resultados/`.
+Os resultados serão salvos em `src/resultados/`.
 
 ## Estrutura do Projeto
 ```
